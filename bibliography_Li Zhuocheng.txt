@@ -1,0 +1,45 @@
+Thesis entitled"Structural design of MicroMED particle analyzer, an alternative solution based on topology optimization" submitted by Li Zhuocheng(李卓城) in July 2021, should be with the following references:
+
+[1] Jeorg P. Arenas and Ravi N. Margasahayam. “NOISE AND VIBRATION OF SPACECRAFT STRUCTURES”. Ingeniare. Revista Chilena de Ingeniería, vol. 14, núm. 3, diciembre, 2006, pp. 251-264
+
+[2] J.T. Broch. “Mechanical Vibration and Shock Measurements”. Naerum: Bruel & Kjaer. 1984.
+
+[3] Franz, Heather B.; Trainer, Melissa G.; Malespin, Charles A.; Mahaffy, Paul R.; Atreya, Sushil K.; Becker, Richard H.; Benna, Mehdi; Conrad, Pamela G.; Eigenbrode, Jennifer L. (1 April 2017). "Initial SAM calibration gas experiments on Mars: Quadrupole mass spectrometer results and implications". Planetary and Space Science. 138: 44–54.
+
+[4] "Mars Facts". NASA. Archived from the original on June 7, 2013. Retrieved June 20, 2013
+
+[5] "Focus Sections :: The Planet Mars". MarsNews.com. Retrieved September 8, 2007.
+
+[6] https://ecss.nl/
+
+[7] Morris R. V. et al. (2006) JGR, 111, E12S15.
+
+[8] Taylor S. R. and McLennan S. M. (2009) “Planetary Crusts: Their Composition, Origin, and Evolution”, Cambridge Uni- versity Press, Cambridge, UK. 378 p.
+
+[9] Pike W. T. et al. (2011) GRL, 38, L24201.
+
+[10] J. Brennan, 20 Years of Topology Optimization: Birth and Maturation of a Disruptive Technology, Altair Hyperworks website, 2014.
+
+[11] D. Systèmes, “ Metodo SIMP per l’ottimizzazione topologica,” 1995-2019.
+
+[12] Y. Jijun, Z. Tao, R. Jianhua and L. Yanmei, “A topology optimization method based on element independent nodal density,” Springer, 2014.
+
+[13] www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Exploration/ExoMars
+
+[14] Ryan J.A., Henry R.M., 1979
+
+[15] http://www.cnsa.gov.cn/
+
+[16] Alessia Toscano,2019, “Topology optimization and design for additive manufacturing:the case study of a hydraulic module for automotive application”
+
+[17] Andrea Crippa,2019,“DESIGN OF A HOLDER FOR A HYPER HEMISPHERIC OPTICAL SYSTEM FOR PLANETARY OBSERVATION”
+
+[18] Christian Pagliara, 2016, “Development model design of a dust analyzer for Mars”
+
+[19] F. D'Amato, et al., MICROMED: A Compact Dust Detector for Martian Airborne Dust Investigation, in 3M-S3 The Third Moscow Solar System Symposium2012: Moscow, Russia
+
+References for this paper should be taken as such. If you have questions about the content of the paper, please feel free to contact the author.
+
+李卓城/Li Zhuocheng
+
+Matr.939040
